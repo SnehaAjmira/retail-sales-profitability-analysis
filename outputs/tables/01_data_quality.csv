@@ -1,0 +1,11 @@
+check_name,result
+Raw rows,8400
+Empty rows removed,1
+Order lines analyzed,8399
+Distinct orders,5496
+Distinct customers,795
+Date range,2009-01-01 to 2012-12-30
+Duplicate row IDs,0
+Ship date before order date,0
+Region values corrected (Prarie to Prairie),1706
+Null sales or profit,0

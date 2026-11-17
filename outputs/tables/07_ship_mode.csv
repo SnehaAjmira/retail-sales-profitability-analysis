@@ -1,0 +1,4 @@
+ship_mode,order_lines,sales,margin_pct,furniture_sales_pct,avg_days_to_ship
+Delivery Truck,1146,6224879.0,4.3,66.7,2.0
+Express Air,983,1184419.0,12.4,13.5,2.0
+Regular Air,6270,7506303.0,14.7,11.5,2.0
